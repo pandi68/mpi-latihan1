@@ -1,0 +1,1 @@
+# mpi-latihan1
